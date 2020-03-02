@@ -8,7 +8,11 @@
 </head>
 <body>
 <form action="/login">
+
 UserName:<input type="text" name=username>
+
+password:<input type="password" name=password/>
+
 </form>
 </body>
 </html>
