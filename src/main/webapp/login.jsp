@@ -11,6 +11,7 @@
 UserName:<input type="text" name=username>
 password:<input type="password" name=password/>
 <input type="submit" value="login">
+<input type="text" value="reset"> 
 
 </form>
 </body>
